@@ -143,6 +143,7 @@ public class C_QSortOptimized {
             }
         }
 
+
         @Override
         public int compareTo(Segment o) {
             //подумайте, что должен возвращать компаратор отрезков

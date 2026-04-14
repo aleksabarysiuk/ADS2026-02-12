@@ -1,5 +1,4 @@
 package by.it.group510902.Borisyuk.lesson04;
-
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.Scanner;

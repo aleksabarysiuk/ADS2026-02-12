@@ -1,6 +1,5 @@
 package by.it.group510902.Borisyuk.lesson04;
 
-
 import org.junit.Test;
 
 import java.io.InputStream;
